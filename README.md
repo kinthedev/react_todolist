@@ -3,9 +3,9 @@
 Todo list built with React and Tailwind css to practice UI styling and component division
 
 ## Features
-Add new tasks
-Marks task as completed
-Deletes tasks
+Add new tasks.
+Marks task as completed.
+Deletes tasks.
 
 ## Tech stack
 React + tailwind + Typescript
