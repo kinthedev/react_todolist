@@ -10,10 +10,11 @@ Todo list built with React and Tailwind css to practice UI styling and component
 - Edit existing tasks
 
 ## Tech stack
+
 React + tailwind + Typescript
 
 ## Future Improvements
 
-- Persist todos using LocalStorage
+<!-- - Persist todos using LocalStorage
 - Drag & drop reordering
-- Dark mode support
+- Dark mode support -->
