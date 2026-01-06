@@ -13,7 +13,7 @@ React + tailwind + Typescript
 
 ## Future Improvements
 
-Persist todos using LocalStorage
-Edit existing todos
-Drag & drop reordering
-Dark mode support
+- Persist todos using LocalStorage
+- Edit existing todos
+- Drag & drop reordering
+- Dark mode support
