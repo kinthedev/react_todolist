@@ -7,6 +7,7 @@ Todo list built with React and Tailwind css to practice UI styling and component
 - Add new tasks.
 - Marks task as completed.
 - Deletes tasks.
+- Edit existing tasks
 
 ## Tech stack
 React + tailwind + Typescript
@@ -14,6 +15,5 @@ React + tailwind + Typescript
 ## Future Improvements
 
 - Persist todos using LocalStorage
-- Edit existing todos
 - Drag & drop reordering
 - Dark mode support
